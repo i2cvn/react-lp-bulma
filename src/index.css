@@ -1,0 +1,18 @@
+@import "./styles/blockquote.css";
+@import "./styles/gradient.css";
+@import "./styles/hover-zoom.css";
+
+body {
+  font-family: "Mulish", sans-serif;
+}
+
+.navbar {
+  height: 4.5rem;
+  background: linear-gradient(to bottom, #c054ff 0%, #5274ff 100%);
+}
+
+.hero {
+  padding-top: 4rem;
+  background-image: url("/images/background/hero01.png");
+  background-size: cover;
+}
